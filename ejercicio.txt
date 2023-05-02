@@ -1,0 +1,17 @@
+2. Espotifai V1#
+
+Queremos empezar a desarrollar un clon de Spotify, por lo que nos pidieron desarrollar una API CRUD para gestionar artistas.
+
+De cada artista conocemos los siguientes datos:
+Nombre
+Followers
+Género
+Imagen
+ID
+
+Adicional a los endpoints anteriores, queremos agregar dos adicionales que nos permitan sumar o restar 1 follower
+
+/artist/follow/:id
+/artist/unfollow/:id
+
+Nos pasaron una lista de artistas iniciales para cargar en el sistema
